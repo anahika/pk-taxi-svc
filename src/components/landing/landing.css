@@ -1,0 +1,27 @@
+.bg {
+  background-image: linear-gradient(
+      to bottom,
+      rgba(0, 0, 0, 0.7) 0%,
+      rgba(0, 0, 0, 0.7) 100%
+    ),
+    url(../../assets/bg.jpg);
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+  color: white;
+}
+
+.contact-button {
+  background-color: #9f8ba2;
+  text-decoration: none;
+  color: black;
+  font-weight: 500;
+  padding: 0.7rem;
+  margin-top: 0.7rem;
+  border-radius: 10px;
+}
+
+.contact-button:hover {
+  background-color: #b7a3b8;
+  color: black;
+}
