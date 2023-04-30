@@ -1,6 +1,28 @@
-.about-us-h2{
-    color: rgb(159, 139, 162);
-    font-weight: 400;
-    font-size: 32px;
-    text-align: center;
+.about-us-h2 {
+  color: rgb(159, 139, 162);
+  font-weight: 700;
+  font-size: 32px;
+  text-align: center;
+}
+
+img {
+  max-width: 500px;
+  max-height: 500px;
+  padding: 5px;
+  border: 1px solid #ddd;
+}
+
+img:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+
+.about-text {
+  padding: 1rem;
+  line-height:0.3in;
+  font-family: initial;
+  font-size: large;
+}
+
+.about-text h3{
+    color: #f68292;
 }
