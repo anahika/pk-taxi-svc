@@ -1,28 +1,31 @@
 import React from "react";
 import aboutData from "../../data/data.json";
-import "./aboutUs.css";
 
 function Section() {
   return (
-    <div>
+    <>
       {aboutData.data.map((section, index) => (
-        <div key={index}>
-          <div
-            className={
-              index%2 === 0 ? "d-flex flex-row mt-4 p-4" : "d-flex flex-row-reverse mt-4 p-4"
-            }
-          >
-            <div className="align-self-center about-text">
-              <h3 className="text-center">{section.title}</h3>
-              <p>{section.text}</p>
-            </div>
-            <div>
-              <img src={require("../../assets/" + section.image)} alt="img" />
-            </div>
+        <div
+          key={index}
+          className={
+            (index % 2 === 0 ? "section-odd" : "section-even") +
+            " d-flex mt-4 p-4 align-items-center"
+          }
+        >
+          <div className=" col-12 col-md-7 about-text">
+            <h3 className="text-center">{section.title}</h3>
+            <p>{section.text}</p>
+          </div>
+          <div className="col-12 col-md-5">
+            <img
+              className="section-img"
+              src={require("../../assets/" + section.image)}
+              alt="img"
+            />
           </div>
         </div>
       ))}
-    </div>
+    </>
   );
 }
 

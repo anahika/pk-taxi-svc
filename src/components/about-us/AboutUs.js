@@ -1,6 +1,6 @@
 import React from "react";
 import Section from "./Section";
-import "./aboutUs.css";
+import "./AboutUs.css";
 
 function AboutUs() {
   return (

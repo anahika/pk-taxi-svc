@@ -1,0 +1,24 @@
+.contact-us-bg {
+  background-image: linear-gradient(
+      to bottom,
+      rgba(0, 0, 0, 0.7) 0%,
+      rgba(0, 0, 0, 0.7) 100%
+    ),
+    url(../../assets/contact-us.jpg);
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+  color: #b26be9;
+}
+
+.contact-us-h2 {
+  font-weight: 700;
+  font-size: 32px;
+  text-align: center;
+  color: white;
+}
+
+.contact-para {
+  color: #f78ba3;
+  font-size: large;
+}

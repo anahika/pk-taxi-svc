@@ -2,7 +2,7 @@ import React from "react";
 import './landing.css'
 
 function Landing() {
-  const phoneNumber = 9882648185;
+  const phoneNumber = 8803660003;
   return (
     <div className="bg d-flex flex-column align-items-center justify-content-center">
       <h1>Welcome to Travel Theoriz</h1>
