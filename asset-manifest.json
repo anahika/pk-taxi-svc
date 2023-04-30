@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f6911ed4.css",
+    "main.js": "/static/js/main.3842f90c.js",
+    "static/js/787.0778410e.chunk.js": "/static/js/787.0778410e.chunk.js",
+    "static/media/4.jpg": "/static/media/4.adf3b3cde00957862a31.jpg",
+    "static/media/driver.jpg": "/static/media/driver.61a5a3a8433e8f6467d0.jpg",
+    "static/media/mandi.jpg": "/static/media/mandi.c0522fe99660a6d600e7.jpg",
+    "static/media/1.jpg": "/static/media/1.dba81e2b138edcd24989.jpg",
+    "static/media/i6.jpg": "/static/media/i6.b513aa6cbf61c8aa6edd.jpg",
+    "static/media/5.jpg": "/static/media/5.9c1e87a6f216b91d6ea3.jpg",
+    "static/media/3.jpg": "/static/media/3.8e37da04048fb68e2e8e.jpg",
+    "static/media/2.jpg": "/static/media/2.7ab132e960a5281bdcfd.jpg",
+    "static/media/palampur.png": "/static/media/palampur.82b79e1682ef4c68ca8a.png",
+    "static/media/bg.jpg": "/static/media/bg.880bbd93d2b1b94ccdbf.jpg",
+    "static/media/s.jpg": "/static/media/s.850e9767edeb322673a9.jpg",
+    "index.html": "/index.html",
+    "main.f6911ed4.css.map": "/static/css/main.f6911ed4.css.map",
+    "main.3842f90c.js.map": "/static/js/main.3842f90c.js.map",
+    "787.0778410e.chunk.js.map": "/static/js/787.0778410e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6911ed4.css",
+    "static/js/main.3842f90c.js"
+  ]
+}
