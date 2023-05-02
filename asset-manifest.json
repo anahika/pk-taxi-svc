@@ -1,26 +1,27 @@
 {
   "files": {
-    "main.css": "/pk-taxi-svc/static/css/main.5f55a87b.css",
-    "main.js": "/pk-taxi-svc/static/js/main.21e212e2.js",
-    "static/js/787.0778410e.chunk.js": "/pk-taxi-svc/static/js/787.0778410e.chunk.js",
-    "static/media/4.jpg": "/pk-taxi-svc/static/media/4.adf3b3cde00957862a31.jpg",
-    "static/media/driver.jpg": "/pk-taxi-svc/static/media/driver.61a5a3a8433e8f6467d0.jpg",
-    "static/media/mandi.jpg": "/pk-taxi-svc/static/media/mandi.c0522fe99660a6d600e7.jpg",
-    "static/media/1.jpg": "/pk-taxi-svc/static/media/1.dba81e2b138edcd24989.jpg",
-    "static/media/i6.jpg": "/pk-taxi-svc/static/media/i6.b513aa6cbf61c8aa6edd.jpg",
-    "static/media/5.jpg": "/pk-taxi-svc/static/media/5.9c1e87a6f216b91d6ea3.jpg",
-    "static/media/3.jpg": "/pk-taxi-svc/static/media/3.8e37da04048fb68e2e8e.jpg",
-    "static/media/2.jpg": "/pk-taxi-svc/static/media/2.7ab132e960a5281bdcfd.jpg",
-    "static/media/palampur.png": "/pk-taxi-svc/static/media/palampur.82b79e1682ef4c68ca8a.png",
-    "static/media/bg.jpg": "/pk-taxi-svc/static/media/bg.880bbd93d2b1b94ccdbf.jpg",
-    "static/media/s.jpg": "/pk-taxi-svc/static/media/s.850e9767edeb322673a9.jpg",
-    "index.html": "/pk-taxi-svc/index.html",
-    "main.5f55a87b.css.map": "/pk-taxi-svc/static/css/main.5f55a87b.css.map",
-    "main.21e212e2.js.map": "/pk-taxi-svc/static/js/main.21e212e2.js.map",
-    "787.0778410e.chunk.js.map": "/pk-taxi-svc/static/js/787.0778410e.chunk.js.map"
+    "main.css": "/static/css/main.91db17be.css",
+    "main.js": "/static/js/main.cee9244b.js",
+    "static/js/787.0778410e.chunk.js": "/static/js/787.0778410e.chunk.js",
+    "static/media/driver.jpg": "/static/media/driver.61a5a3a8433e8f6467d0.jpg",
+    "static/media/mandi.jpg": "/static/media/mandi.c0522fe99660a6d600e7.jpg",
+    "static/media/1.jpg": "/static/media/1.dba81e2b138edcd24989.jpg",
+    "static/media/i6.jpg": "/static/media/i6.b513aa6cbf61c8aa6edd.jpg",
+    "static/media/5.jpg": "/static/media/5.9c1e87a6f216b91d6ea3.jpg",
+    "static/media/3.jpg": "/static/media/3.8e37da04048fb68e2e8e.jpg",
+    "static/media/2.jpg": "/static/media/2.7ab132e960a5281bdcfd.jpg",
+    "static/media/palampur.png": "/static/media/palampur.82b79e1682ef4c68ca8a.png",
+    "static/media/contact-us.jpg": "/static/media/contact-us.2cf5d1e565a590a52579.jpg",
+    "static/media/4.jpg": "/static/media/4.d13fb5b0c7b35557f0d5.jpg",
+    "static/media/bg.jpg": "/static/media/bg.880bbd93d2b1b94ccdbf.jpg",
+    "static/media/s.jpg": "/static/media/s.850e9767edeb322673a9.jpg",
+    "index.html": "/index.html",
+    "main.91db17be.css.map": "/static/css/main.91db17be.css.map",
+    "main.cee9244b.js.map": "/static/js/main.cee9244b.js.map",
+    "787.0778410e.chunk.js.map": "/static/js/787.0778410e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5f55a87b.css",
-    "static/js/main.21e212e2.js"
+    "static/css/main.91db17be.css",
+    "static/js/main.cee9244b.js"
   ]
 }
