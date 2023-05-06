@@ -1,0 +1,12 @@
+.dot {
+  visibility: hidden;
+}
+
+.postImageWrapper1 {
+  width: 400px;
+  height: 350px;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  margin: auto;
+}

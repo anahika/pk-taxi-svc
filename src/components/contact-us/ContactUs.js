@@ -15,11 +15,11 @@ function ContactUs() {
         hours.
       </p>
 
-      <div class="row d-flex">
-        <div class="card col-sm-4 m-4" style={{ maxWidth: "18rem" }}>
-          <div class="card-body">
-            <h5 class="card-title text-danger">Need a ride?</h5>
-            <p class="card-text">
+      <div className="row d-flex justify-content-center">
+        <div className="card col-md-4 m-2 col-10">
+          <div className="card-body text-center font-monospace">
+            <h5 className="card-title text-danger">Need a ride?</h5>
+            <p className="card-text">
               Call us anytime for fast and reliable taxi service. Our drivers
               are available 24/7 to get you where you need to go. Contact us
               today to book your ride.
@@ -30,12 +30,12 @@ function ContactUs() {
           </div>
         </div>
 
-        <div class="card col-sm-4 m-4" style={{ maxWidth: "18rem" }}>
-          <div class="card-body">
-            <h5 class="card-title text-danger">
+        <div className="card col-md-4 m-2 col-10">
+          <div className="card-body text-center font-monospace">
+            <h5 className="card-title text-danger">
               Need help? Contact us by email
             </h5>
-            <p class="card-text">
+            <p className="card-text">
               For support inquiries, please don't hesitate to contact us at
               traveltheoriz@gmail.com. Contact us for assistance via email.
             </p>
@@ -43,15 +43,15 @@ function ContactUs() {
               className="btn btn-warning"
               href="mailto:traveltheoriz@gmail.com"
             >
-              <i class="fa fa-envelope"> traveltheoriz@gmail.com</i>
+              <i className="fa fa-envelope"> traveltheoriz@gmail.com</i>
             </a>
           </div>
         </div>
 
-        <div class="card col-sm-4 m-4" style={{ maxWidth: "18rem" }}>
-          <div class="card-body">
-            <h5 class="card-title text-danger">24/7 Taxi Service</h5>
-            <p class="card-text">
+        <div className="card col-md-4 m-2 col-10">
+          <div className="card-body text-center font-monospace">
+            <h5 className="card-title text-danger">24/7 Taxi Service</h5>
+            <p className="card-text">
               We understand that transportation needs can arise at any time of
               day or night. That's why we offer reliable and convenient taxi
               service 24 hours a day, 7 days a week.
@@ -60,7 +60,7 @@ function ContactUs() {
               className="btn btn-warning"
               href="mailto:traveltheoriz@gmail.com"
             >
-              <i class="fa fa-envelope"> traveltheoriz@gmail.com</i>
+              <i className="fa fa-envelope"> traveltheoriz@gmail.com</i>
             </a>
           </div>
         </div>

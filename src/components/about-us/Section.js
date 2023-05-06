@@ -1,5 +1,5 @@
 import React from "react";
-import aboutData from "../../data/data.json";
+import aboutData from "../../data/aboutUs.json";
 
 function Section() {
   return (
