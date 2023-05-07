@@ -7,7 +7,6 @@ export const Error = () => {
     <>
       <div className="d-flex align-items-center justify-content-center flex-column p-3 mt-3 m-auto w-100">
         <Carousal />
-
         <p className="mt-3 text-center text-primary">
           All that is gold does not glitter, Not all those who wander are lost.
         </p>
