@@ -6,7 +6,7 @@ import Header from "./components/header/Header";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/">
       <div className="App">
         <Header />
         <Routes>
