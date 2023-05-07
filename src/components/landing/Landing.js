@@ -1,8 +1,8 @@
 import React from "react";
-import "./landing.css";
 import AboutUs from "../about-us/AboutUs";
 import ContactUs from "../contact-us/ContactUs";
 import Carousal from "../carousal/Carousel";
+import './Landing.css'
 
 function Landing() {
   const phoneNumber = 8803660003;
