@@ -22,3 +22,7 @@ This website is built using small components that can be easily customized and r
 
 ## Web Link
 To learn more about our taxi service, visit our [website](https://traveltheoriz.com/).
+
+#### Developer Notes:
+- Read docs to get a understanding on how `React build` works under the hood.
+- Changing `homepage` under `package.json` affects the location(url) of static components. 
