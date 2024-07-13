@@ -16,7 +16,7 @@ export const Error = () => {
       </div>
       <footer className="text-center text-black-50 p-3">
         {" "}
-        <span>COPYRIGHT © 2023 TRAVEL THEORIZ - ALL RIGHTS RESERVED.</span>
+        <span>COPYRIGHT © 2023 PRASHANT TRAVELS - ALL RIGHTS RESERVED.</span>
       </footer>
     </>
   );

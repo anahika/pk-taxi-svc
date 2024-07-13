@@ -14,7 +14,7 @@ function Landing() {
             <Carousal />
           </div>
           <div className="col-md-6 d-flex flex-column justify-content-center align-items-center mt-5">
-            <h1 className="text-warning">Welcome to Travel Theoriz</h1>
+            <h1 className="text-warning">Welcome to Prashant Travels</h1>
             <h1>It's time to travel</h1>
             <a className="contact-button" href={`tel:${phoneNumber}`}>
               CONTACT US
@@ -26,7 +26,7 @@ function Landing() {
       <ContactUs />
       <footer className="text-center text-black-50 p-3">
         {" "}
-        <span>COPYRIGHT © 2023 TRAVEL THEORIZ - ALL RIGHTS RESERVED.</span>
+        <span>COPYRIGHT © 2023 PRASHANT TRAVELS - ALL RIGHTS RESERVED.</span>
       </footer>
     </div>
   );
