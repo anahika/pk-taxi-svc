@@ -32,4 +32,5 @@ To learn more about our taxi service, visit our [website](https://traveltheoriz.
 - make changes to `feature-base`
 - test by `npm start` and after that verify with live server from `npm build`
 - run `npm run deploy` it will push the build to `gh-pages`
--  push changes from local to remote, `git push`
+- Add CNAME to `gh-pages`
+- push changes from local to remote, `git push`
