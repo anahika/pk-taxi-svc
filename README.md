@@ -25,4 +25,11 @@ To learn more about our taxi service, visit our [website](https://traveltheoriz.
 
 #### Developer Notes:
 - Read docs to get a understanding on how `React build` works under the hood.
-- Changing `homepage` under `package.json` affects the location(url) of static components. 
+- Changing `homepage` under `package.json` affects the location(url) of static components.
+
+### How to update:
+- `git pull` from terminal
+- make changes to `feature-base`
+- test by `npm start` and after that verify with live server from `npm build`
+- run `npm run deploy` it will push the build to `gh-pages`
+-  push changes from local to remote, `git push`
