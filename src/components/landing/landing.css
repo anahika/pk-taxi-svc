@@ -9,19 +9,15 @@
   background-position: center;
   min-height: 90vh;
   color: white;
+  min-height: 100vh;
 }
 
 .contact-button {
-  background-color: #9f8ba2;
+  background-color: #ffc107;
   text-decoration: none;
-  color: black;
   font-weight: 500;
   padding: 0.7rem;
   margin-top: 0.7rem;
   border-radius: 10px;
-}
-
-.contact-button:hover {
-  background-color: #b7a3b8;
   color: black;
 }

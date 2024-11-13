@@ -1,10 +1,10 @@
 import React from "react";
-import aboutData from "../../data/aboutUs.json";
+import { aboutData } from "../../data/aboutUs";
 
 function Section() {
   return (
     <>
-      {aboutData.data.map((section, index) => (
+      {aboutData.map((section, index) => (
         <div
           key={index}
           className={
@@ -13,7 +13,7 @@ function Section() {
           }
         >
           <div className=" col-12 col-md-7 about-text">
-            <h3 className="text-center">{section.title}</h3>
+            <h3 className="text-center blue-color">{section.title}</h3>
             <p>{section.text}</p>
           </div>
           <div className="col-12 col-md-5">

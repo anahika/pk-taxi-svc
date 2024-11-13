@@ -8,7 +8,6 @@
   background-size: cover;
   background-position: center;
   min-height: 100vh;
-  color: #b26be9;
 }
 
 .contact-us-h2 {
@@ -19,6 +18,5 @@
 }
 
 .contact-para {
-  color: #f78ba3;
   font-size: large;
 }

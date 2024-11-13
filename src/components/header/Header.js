@@ -1,21 +1,20 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
-import "./Header.css";
 
 const Header = () => {
   return (
-    <header className="d-flex p-3 justify-content-center">
-      <nav className="headerMenu">
-        <NavLink to="/" className="p-2">
+    <header className="d-flex p-3 justify-content-center bg-blue">
+      <nav className="headerMenu text-warning">
+        <NavLink to="/" className="p-2 text-warning">
           Home
         </NavLink>{" "}
         |
-        <NavLink to="/about-us" className="p-2">
+        <NavLink to="/destinations" className="p-2 text-warning">
           {" "}
-          About Us
-        </NavLink>{" "}
+          Destinations
+        </NavLink>
         |
-        <NavLink to="/contact-us" className="p-2">
+        <NavLink to="/contact-us" className="p-2 text-warning">
           {" "}
           Contact Us
         </NavLink>

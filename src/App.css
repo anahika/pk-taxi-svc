@@ -1,0 +1,37 @@
+body {
+  overflow-x: hidden;
+}
+
+.headerMenu a {
+  text-decoration: none;
+  letter-spacing: 1.2px;
+}
+
+.dot {
+  visibility: hidden;
+}
+
+.postImageWrapper1 {
+  width: 400px;
+  height: 350px;
+  object-fit: cover;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  margin: auto;
+}
+
+.img1{
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 20px;
+}
+
+.blue-color {
+  color: #355278;
+}
+
+.bg-blue {
+  background: #1d2d42;
+}
