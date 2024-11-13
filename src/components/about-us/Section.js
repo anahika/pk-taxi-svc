@@ -14,7 +14,7 @@ function Section() {
         >
           <div className=" col-12 col-md-7 about-text">
             <h3 className="text-center blue-color">{section.title}</h3>
-            <p>{section.text}</p>
+            <p className="text-center">{section.text}</p>
           </div>
           <div className="col-12 col-md-5">
             <img

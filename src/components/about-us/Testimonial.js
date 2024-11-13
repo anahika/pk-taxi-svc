@@ -24,7 +24,7 @@ function Testimonial() {
               />
             </div>
 
-            <div className="col-md-8">
+            <div className="col-md-8 p-2">
               <p>{testimonial.review}</p>
               <span className="text-danger">{testimonial.title}</span>
             </div>

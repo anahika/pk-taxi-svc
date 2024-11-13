@@ -34,12 +34,15 @@ const Destinations = () => {
         {" "}
         <span className="about-us-h2 text-warning">Destinations</span>
       </h2>
-      <div className="row mt-5 justify-content-center">
+      <div
+        className="row mt-5 justify-content-center"
+        style={{ overflowX: "hidden" }}
+      >
         {destinations.map((destination, index) => (
           <Link
             key={destination.title}
             to="/contact-us"
-            className={`col-12 col-sm-3 col-md-3 col-lg-3 p-3 destination justify-content-center align-items-center flex-column ${
+            className={`d-flex col-12 col-sm-6 col-md-4 col-lg-3 p-3 destination justify-content-center align-items-center flex-column ${
               focusedIndex === index ? "focused" : ""
             }`}
             onMouseEnter={() => handleMouseEnter(index)} // Set focus on hover
