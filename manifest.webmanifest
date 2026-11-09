@@ -1,0 +1,12 @@
+{
+  "name": "Travel Theoriz",
+  "short_name": "Travel Theoriz",
+  "icons": [
+    { "src": "/logo.svg", "type": "image/svg+xml", "sizes": "any" },
+    { "src": "/logo.png", "type": "image/png", "sizes": "500x500" }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#1d2d42",
+  "background_color": "#ffffff"
+}
